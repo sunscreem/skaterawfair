@@ -66,7 +66,7 @@
             <li><a href="#about">About</a></li>
             <li><a href="#events">Events</a></li>
             <li><a href="#photos">Gallery</a></li>
-            <li><a href="#information">Information</a></li>
+            <li><a href="#qanda">Information</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
@@ -311,6 +311,103 @@
     <!-- end:photos -->
 
 
+   <section id="qanda">
+    <div class="line"></div>
+    <h1>Questions &amp; Answers</h1>
+
+      <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+               <img src="/images/bottom.png" class="about-img img-responsive">
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-4 question">
+              <p>A question to go here?</p>
+            </div>
+            <div class="col-md-8 answer">
+              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
+              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+            </div>
+          </div> 
+
+            <div class="row">
+            <div class="col-md-4 question">
+              <p>A question to go here?</p>
+            </div>
+            <div class="col-md-8 answer">
+              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
+              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+            </div>
+          </div> 
+
+            <div class="row">
+            <div class="col-md-4 question">
+              <p>A question to go here?</p>
+            </div>
+            <div class="col-md-8 answer">
+              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
+              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+            </div>
+          </div> 
+
+            <div class="row">
+            <div class="col-md-4 question">
+              <p>A question to go here?</p>
+            </div>
+            <div class="col-md-8 answer">
+              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
+              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+            </div>
+          </div> 
+    </div>
+  </section>
+
+
+  <!-- begin:contact -->
+  <section id="contact">
+    <div class="line"></div>
+    <div id="maps"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Contact Us</h2>
+          <h5><span>Email: <a href="mailto:newtonhillva@gmail.com">newtonhillva@gmail.com</a></span></h5>
+          <div class="contact-container">
+            <div class="row">
+
+                @if (session()->has('flash_notification.message'))
+
+                    <div class="col-xs-10 col-xs-offset-1 alert alert-{{ session('flash_notification.level') }}">
+                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+
+                        {!! session('flash_notification.message') !!}
+                    </div>
+                    <div class="clearfix"></div>
+                @endif
+                <h6 class="text-center">You can also send us a message using this form.</h6>
+              <form action="{{ route('contact') }}?sent=1#contact" method="post" role="form">
+                {{ csrf_field() }}
+              <div class="col-md-6 col-sm-6">
+                <textarea name="message" rows="7" class="form-control no-resize" placeholder="Your Message" required></textarea>
+              </div>
+             
+              <div class="col-md-6 col-sm-6">
+                <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+                <input type="email" name="email" class="form-control" placeholder="Your Email" required>
+                <input type="submit" value="Submit Contact Form" class="btn btn-lg btn-secondary" />
+              </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end:contact -->
+
+
     <!-- begin:copyright -->
     <section id="copyright">
             <div class="row">
@@ -344,8 +441,8 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-   {{--   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script> --}}
- {{-- <script src="js/gmap3.js"></script> --}}
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en&amp;key=AIzaSyArHJHF5AXC7JiuWRnKKskAXjLamEJQZ0c"></script>
+    <script src="js/gmap3.js"></script>
     <script src="js/jquery.colorbox.js"></script>
     <script src="js/jquery.easing.js"></script> 
     <script src="js/script.js"></script>

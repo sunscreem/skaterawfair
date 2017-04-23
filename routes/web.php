@@ -14,3 +14,5 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::POST('/contact',['as'=>'contact','uses'=>'ContactController@store']);

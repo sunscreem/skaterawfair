@@ -663,6 +663,34 @@ a:hover {
   overflow: hidden;
 }
 
+#qanda {
+    padding-top: 50px;
+  position:relative;
+  background: #efefef;
+  background-image: url('../img/portfolio/wedding/bg.png');
+  padding-bottom: 75px;
+  h1 {
+
+    padding: 20px 0 50px;
+    margin: 0;
+    font-family: 'EB Garamond',serif;
+    font-size: 47px;
+    line-height: 65px;
+    font-weight: 700;
+    color: #444;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+    text-align: center;
+  }
+  .question{
+    margin-top: 40px;
+    text-align: right;
+    font-weight: 700;
+  }
+  .answer{
+    margin-top: 40px;
+  }
+}
+
 /*
 	================
 	[5. CEREMONY]
@@ -1679,21 +1707,21 @@ a:hover {
   font-size: 85px;
   line-height: 87px;
   font-weight: 700;
-  color: #fff;
+  color: $orange;
   text-shadow: 2px 1px 0 rgba(0, 0, 0, 0.2);
   text-align: center;
 }
 #contact h5 {
   display: block;
   margin-top: 40px;
-  margin-bottom: 30px;
+  margin-bottom: 80px;
   font-family: 'EB Garamond', serif;
   font-size: 30px;
   line-height: 34px;
   font-weight: 400;
   color: #fff;
   text-align: center;
-  text-transform: capitalize;
+  // text-transform: capitalize;
 }
 #contact h5 span {
   background-color: #272727;
@@ -1712,7 +1740,13 @@ a:hover {
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
   border-radius: 4px;
-  text-transform: capitalize;
+  // text-transform: capitalize;
+  a:hover {
+    color: $orange;
+  }
+}
+#contact h6  {
+  font-size: 17px 
 }
 #contact .contact-container {
   position: relative;

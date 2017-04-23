@@ -42,32 +42,10 @@ $(document).ready(function() {
 	$("#maps").gmap3({
 		 map:{
 		    options:{
-		      center:[-7.867555,110.388502],
-		      zoom: 16,
+		      center:[57.0196329,-2.166897],
+		      zoom: 11,
 			  scrollwheel: false
 		    }
- 		 },
- 		 marker:{
- 		 	values : [
- 		 		{latLng:[-7.867555,110.388502],data:'<img src="https://dl.dropboxusercontent.com/u/29545616/Preview/ditinggalrabi.png">',  options:{icon: 'https://dl.dropboxusercontent.com/u/29545616/Preview/location.png'}}
- 		 	],
- 		 	events : {
- 		 	 click: function(marker, event, context){
-		        var map = $(this).gmap3("get"),
-		          infowindow = $(this).gmap3({get:{name:"infowindow"}});
-		        if (infowindow){
-		          infowindow.open(map, marker);
-		          infowindow.setContent(context.data);
-		        } else {
-		          $(this).gmap3({
-		            infowindow:{
-		              anchor:marker, 
-		              options:{content: context.data}
-		            }
-		          });
-		        }
-		      }
- 		 }
  		 }
 
 	});
