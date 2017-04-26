@@ -76,42 +76,42 @@
                             <ul>
                                 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
+                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
                                     <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore magna aliqua. </p>
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
+                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
                                     <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore magna aliqua. </p>
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
+                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
                                     <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore magna aliqua. </p>
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
+                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
                                     <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore magna aliqua. </p>
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
+                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
                                     <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore magna aliqua. </p>
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
+                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
                                     <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore magna aliqua. </p>
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
