@@ -11,9 +11,9 @@
     <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
 
     <!-- Custom styles for this template -->
-    <link href="http://fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet" type="text/css">
     
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
@@ -109,7 +109,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en&amp;key=AIzaSyArHJHF5AXC7JiuWRnKKskAXjLamEJQZ0c"></script>
+    <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false&amp;language=en&amp;key=AIzaSyArHJHF5AXC7JiuWRnKKskAXjLamEJQZ0c"></script>
     <script src="js/gmap3.js"></script>
     <script src="js/jquery.colorbox.js"></script>
     <script src="js/jquery.easing.js"></script> 
