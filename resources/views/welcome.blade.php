@@ -313,16 +313,27 @@
                     </div>
                     <div class="clearfix"></div>
                 @endif
+
+                @if(count($errors))
+                      <div class="col-xs-10 col-xs-offset-1 alert alert-danger">
+                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+
+                        Sorry - something went wrong. Did you tick the box to confirm you are a human?
+                    </div>
+                    <div class="clearfix"></div>
+                @endif
+
                 <h6 class="text-center">You can also send us a message using this form.</h6>
               <form action="{{ route('contact') }}?sent=1#contact" method="post" role="form">
                 {{ csrf_field() }}
               <div class="col-md-6 col-sm-6">
-                <textarea name="message" rows="7" class="form-control no-resize" placeholder="Your Message" required></textarea>
+                <textarea name="message" rows="11" class="form-control no-resize" placeholder="Your Message" required></textarea>
               </div>
              
               <div class="col-md-6 col-sm-6">
                 <input type="text" name="name" class="form-control" placeholder="Your Name" required>
                 <input type="email" name="email" class="form-control" placeholder="Your Email" required>
+                {!! Recaptcha::render() !!}
                 <input type="submit" value="Submit Contact Form" class="btn btn-lg btn-secondary" />
               </div>
               </form>

@@ -114,6 +114,7 @@
     <script src="js/jquery.colorbox.js"></script>
     <script src="js/jquery.easing.js"></script> 
     <script src="js/script.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 
   </body>
 </html>
