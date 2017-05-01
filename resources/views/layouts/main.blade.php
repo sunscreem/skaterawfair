@@ -66,7 +66,7 @@
             <li><a href="@if(Request::getPathInfo() != '/new')/@endif#about">About</a></li>
             <li><a href="@if(Request::getPathInfo() != '/new')/@endif#events">Events</a></li>
             <li><a href="@if(Request::getPathInfo() != '/new')/@endif#photos">Gallery</a></li>
-            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#qanda">Information</a></li>
+            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#qanda">Q &amp; A</a></li>
             <li><a href="@if(Request::getPathInfo() != '/new')/@endif#contact">Contact</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
@@ -77,6 +77,7 @@
 
     <!-- begin:copyright -->
     <section id="copyright">
+    <div class="container">
             <div class="row">
 
                 <div class="col-md-3">
@@ -88,7 +89,7 @@
                 </div>
                 <div class="col-md-6">
                     <p>Skateraw Fair website built with <i class="fa fa-heart-o"></i> by <a href="https://robertcooper.xyz" target="_blank">Robert Cooper</a></p>
-                    <p>Spotted a mistake or have a contribution? <a href="#">Contact Us</a> or <a href="https://github.com/sunscreem/skaterawfair">Use GitHub</a></p> 
+                    <p>Spotted a mistake or have a contribution?<br class="visible-xs"> <a href="#">Contact Us</a> or <a href="https://github.com/sunscreem/skaterawfair">Use GitHub</a></p> 
                     <p>Copyright &copy; {{ date('Y') }} All Right Reserved.</p>
                 </div>
                 <div class="col-md-3">
@@ -99,6 +100,7 @@
                     </ul>
                 </div>
             </div>
+        </div>
         </div>
     </section>
     <!-- end:copyright -->
