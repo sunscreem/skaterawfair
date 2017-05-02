@@ -14,7 +14,7 @@
     <meta property="og:image" content="https://skaterawfair.co.uk/images/montage.jpg">
     
     <meta property="og:description" content="https://skaterawfair.co.uk">
-    <meta property="description" content="A week of events in Newtonhill for the whole family culminating in the Fun Day and Fair Dance">
+    <meta name="description" content="A week of events in Newtonhill for the whole family culminating in the Fun Day and Fair Dance">
     
 
   
