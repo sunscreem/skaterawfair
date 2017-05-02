@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
    
-    <meta property="og:url" content="https://skaterawfair.co.uk">
+    <meta property="og:url" content="https://skaterawfair.co.uk/new">
     <meta property="og:type" content="website">
     
     <title>The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire</title>
