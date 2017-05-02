@@ -5,7 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
    
-    <title>The Skateraw Fair :: 21st - 24th June 2017 :: Newtonhill, Aberdeenshire</title>
+    <meta name="og:url" content="https://skaterawfair.co.uk">
+    <meta name="og:type" content="website">
+    
+    <title>The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire</title>
+    <meta name="og:title" content="The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire">
+
+    <meta name="og:image" content="https://skaterawfair.co.uk/images/montage.jpg">
+    
+    <meta name="og:description" content="https://skaterawfair.co.uk">
+    <meta name="description" content="A week of events in Newtonhill for the whole family culminating in the Fun Day and Fair Dance">
+    
 
     <!-- Bootstrap core CSS -->
     <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
@@ -23,7 +33,7 @@
     <link rel="shortcut icon" href="/favicons/favicon.ico">
     <meta name="msapplication-config" content="/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-
+    
     <!-- <link href="css/animate.css" rel="stylesheet"> -->
     <!-- <link href="css/font-awesome.min.css" rel="stylesheet"> -->
     <!-- <link href="css/colorbox.css" rel="stylesheet"> -->
