@@ -5,21 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
    
-    <meta name="og:url" content="https://skaterawfair.co.uk">
-    <meta name="og:type" content="website">
+    <meta property="og:url" content="https://skaterawfair.co.uk">
+    <meta property="og:type" content="website">
     
     <title>The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire</title>
-    <meta name="og:title" content="The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire">
+    <meta property="og:title" content="The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire">
 
-    <meta name="og:image" content="https://skaterawfair.co.uk/images/montage.jpg">
+    <meta property="og:image" content="https://skaterawfair.co.uk/images/montage.jpg">
     
-    <meta name="og:description" content="https://skaterawfair.co.uk">
-    <meta name="description" content="A week of events in Newtonhill for the whole family culminating in the Fun Day and Fair Dance">
+    <meta property="og:description" content="https://skaterawfair.co.uk">
+    <meta property="description" content="A week of events in Newtonhill for the whole family culminating in the Fun Day and Fair Dance">
     
 
-    <!-- Bootstrap core CSS -->
-    <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
-
+  
     <!-- Custom styles for this template -->
     <link href="//fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
@@ -33,18 +31,8 @@
     <link rel="shortcut icon" href="/favicons/favicon.ico">
     <meta name="msapplication-config" content="/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-    
-    <!-- <link href="css/animate.css" rel="stylesheet"> -->
-    <!-- <link href="css/font-awesome.min.css" rel="stylesheet"> -->
-    <!-- <link href="css/colorbox.css" rel="stylesheet"> -->
-    <!-- <link href="css/style.min.css" rel="stylesheet"> -->
-    <link href="css/app.css" rel="stylesheet" type="text/css"> 
-
-    <!-- <link id="skin" href="css/skin-orange.min.css" rel="stylesheet">  -->
-
-    <!-- begin:css-for-demo -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/demo.css"> -->
-    <!-- end:css-for-demo -->
+  
+    <link href="{{ mix('css/app.css') }}" rel="stylesheet" type="text/css"> 
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
