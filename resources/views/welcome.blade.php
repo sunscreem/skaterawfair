@@ -28,7 +28,7 @@
                     <div class="col-md-4">
                         <h2>Then...</h2>
                         <p>The Skateraw Fair started off as a 'wee' gala before the war and came back as "its a knock-out" competition in 1977.</p>
-                        <p>In 1980, an official committee was set up, the name was changed to Skateraw Fair and was decided to have said fair every year. By this point, the fair was held in a marquee. Initially just for the fair and a dance in the evening. This spread to having disco's for the kids in the days leading up to the fair and 
+                        <p>In 1980, an official committee was set up, the name was changed to Skateraw Fair and was decided to have said fair every year. By this point, the fair was held in a marquee. Initially just for the fair and a dance in the evening. This spread to having discos for the kids in the days leading up to the fair and 
                         then the addition of events to include activities for all ages.</p>
                    
                     </div>
