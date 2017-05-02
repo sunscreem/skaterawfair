@@ -11,7 +11,7 @@
                     <h3><span>Proudly Presents</span></h3>
                     <h2> THE SKATERAW FAIR! </h2>
                     <h4>A Week Of Events For All The Family</h4>
-                    <h5><span>19th - 24th June 2017</span></h5>
+                    <h5><span>17th - 24th June 2017</span></h5>
                 </div>
             </div>
         </div>
@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <h2>Then...</h2>
-                        <p>The Skateraw Fair started off as a 'wee' gala before the war and came back as "its a knockout" competition in 1977.</p>
+                        <p>The Skateraw Fair started off as a 'wee' gala before the war and came back as "its a knock-out" competition in 1977.</p>
                         <p>In 1980, an official committee was set up, the name was changed to Skateraw Fair and was decided to have said fair every year. By this point, the fair was held in a marquee. Initially just for the fair and a dance in the evening. This spread to having disco's for the kids in the days leading up to the fair and 
                         then the addition of events to include activities for all ages.</p>
                    
@@ -44,7 +44,7 @@
 
                     <div class="col-md-4">
                         <h2>Now...</h2>
-                        <p>The fair usually takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> as is the centerpeice event, <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
+                        <p>The fair usually takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> as is the centrepiece event, <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
                         <p>There is now a family night, football tournaments, a charity match and much more. </p>
                         <blockquote>
                            "We are always looking for volunteers so feel free to come along to our committee meetings!"
@@ -76,10 +76,12 @@
                             <ul>
                                 
                                 <li class="content-item content-photo">
-                                    <img src="http://placekitten.com/750/500" alt="Lorem Ipsum">   
-                                    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. </p>
-                                    <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
+                                    <a href="https://www.facebook.com/events/222477248156634/" target="_blank"><img src="/images/events/takethis.jpg" alt="Take This"></a>
+                                    <p class="text chat odd margin-top15">That This : Take That Tribute</p>  
+                                    <p class="caption">A Night of Take That performed by the cream of the West End. Exceptional vocals, energetic routines, tight harmonies!</p>
+                                    <p class="caption">Tickets are £15. Over 18's Only. For ticket sales please <a href="#contact">contact us</a>.</p>
+                                    <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
+                                    <time datetime=""><i class="fa fa-calendar"></i> Saturday 24th June - <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> - Doors Open 7pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
