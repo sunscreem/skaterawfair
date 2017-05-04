@@ -44,8 +44,8 @@
 
                     <div class="col-md-4">
                         <h2>Now...</h2>
-                        <p>The fair usually takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> as is the centrepiece event, <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
-                        <p>There is now a family night, football tournaments, a charity match and much more. </p>
+                        <p>The fair takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> as is the centrepiece event, <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
+                        <p>There is now a family fun day, football tournaments, a charity match and much more. </p>
                         <blockquote>
                            "We are always looking for volunteers so feel free to come along to our committee meetings!"
 
