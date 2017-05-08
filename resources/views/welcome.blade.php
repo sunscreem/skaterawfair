@@ -87,39 +87,43 @@
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
-                                    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. </p>
-                                    <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
+                                    <a href="https://www.facebook.com/events/628364674024001/" target="_blank"><img src="/images/events/thefair.jpg" alt="The Skateraw Fair"></a>
+                                    <p class="text chat odd margin-top15">The Skateraw Fair</p> 
+                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much much more both inside and outside at the Bettridge Centre (whatever the weather!)</p>
+                                    <p class="text chat odd margin-top15">Full details very soon!</p>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
+                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> -
+                                    1pm - 4pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
-                                    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. </p>
-                                    <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
+                                    <a href="https://www.facebook.com/events/1679931085634825/" target="_blank"><img src="/images/events/over60sparty.jpg" alt="The Over 60s Party"></a>
+                                    <p class="text chat odd margin-top15">Over 60's Party</p> 
+                                    <p class="caption">Entertainment, bingo, a raffle and stovies!</p>
+                                    <p class="caption">And, of course, free admission.</p>
+                                    
+                                     <p class="text chat odd margin-top15">Always a very popular event - book your space today!</p>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Wednesday 21st June<br>
+                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> -
+                                    6.45pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
-                                    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <img src="/images/events/football.jpg" alt="Football">
+                                    <p class="text chat odd margin-top15">Football -The footie is back!</p>
+                                    <p class="caption"><strong>Challenge Match</strong> - <a href="https://www.facebook.com/events/424178384626077/">Saturday 17th June</a></p>
+                                    <p>KO - 2pm</p>
+                                    <p class="caption"><strong>Kids Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
+                                    <p>P1 - P3: (4 aside) Registration 10.30am - KO 11.00am</p>
+                                    <p>P4 - P7 &amp; S1 - S3: (5 aside) Registration 1.30pm - KO - 2.00pm</p>
+                                    <p class="caption"><strong>Over 16s Football</strong> - <a href="https://www.facebook.com/events/238286009984737/">Monday 19th June</a></p>
+                                    <p>Registration 6pm - KO 6.30pm</p>
+                                    <p class="text chat odd margin-top15">All football is held at Newtonhill Park</p>
+                                   
                                     <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
-                                <li class="content-item content-photo">
-                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
-                                    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. </p>
-                                    <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
-                                </li>
-
-                                <li class="content-item content-photo">
-                                    <img src="https://placekitten.com/750/500" alt="Lorem Ipsum">   
-                                    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. </p>
-                                    <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
-                                </li>
+                              
 
                                 
                             </ul>
