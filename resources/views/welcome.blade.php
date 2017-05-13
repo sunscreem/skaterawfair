@@ -256,46 +256,67 @@
                <img src="/images/bottom.png" class="about-img img-responsive">
             </div>
           </div>
-          
-          <div class="row">
-            <div class="col-md-4 question">
-              <p>A question to go here?</p>
-            </div>
-            <div class="col-md-8 answer">
-              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
-              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
-            </div>
-          </div> 
 
-            <div class="row">
+        <div class="row">
             <div class="col-md-4 question">
-              <p>A question to go here?</p>
+              <p>Is there an admission price?</p>
             </div>
             <div class="col-md-8 answer">
-              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
-              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+                <p>The Fair Day itself is a free event however donations for the lucky programme are encouraged. We have many operating costs for the fair and any support is greatly received. </p>
+                <p>The football sessions are also free events but there will be a BBQ and tuck shop which helps support the fair.</p>
+                <p>The Fair Dance is a paid event and tickets are available now.</p>
             </div>
-          </div> 
+        </div>
 
-            <div class="row">
+        <div class="row">
             <div class="col-md-4 question">
-              <p>A question to go here?</p>
+              <p>What is the best way to get to the Fair Day? </p>
             </div>
             <div class="col-md-8 answer">
-              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
-              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+                <p>If you are within Newtonhill and the surrounding area please travel on foot.</p>
+                <p>There is limited parking at the centre which may be used by those less able to travel on food. We advice to leave the car at home, enjoy a glass of fizz in the sunshine and keep a look out for lots of children running about!</p>
+                <p>If you are travelling to Newtonhill for the day there are <a href="https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/North%20Scotland/Bluebird/TT_Stonehaven_Guide_08May17-web.pdf">frequent bus services</a> from Aberdeen and Stonehaven.</p>
             </div>
-          </div> 
+        </div>
 
-            <div class="row">
+        <div class="row">
             <div class="col-md-4 question">
-              <p>A question to go here?</p>
+                <p>Can I bring my dog?</p>
             </div>
             <div class="col-md-8 answer">
-              <p>An answer to go here. Praesent eget mi ac nisl consectetur pharetra quis dapibus quam. Vivamus elementum neque et fringilla imperdiet.</p>
-              <p>Maecenas venenatis semper diam vel consectetur. Curabitur ut massa quis nulla facilisis interdum nec ut dolor. Maecenas vehicula purus dolor, et cursus nulla vulputate et. Donec blandit leo tortor, ac volutpat est dapibus id.</p>
+                <p>Of course. There are plenty of them in Newtonhill! Please keep your pooch on a lead at all times and unfortunately it will not be allowed into the Bettridge Centre.</p>
             </div>
-          </div> 
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 question">
+                <p>Can I bring my own alcohol? </p>
+            </div>
+            <div class="col-md-8 answer">
+                <p>With the exception of the Skateraw Fair Dance (which is a BYOB event) you are not permitted to bring Alcohol to any event. </p>
+                <p>However, the good news is there will be a beer tent this year on Fair Day! (strictly over 18's only)</p>
+             </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 question">
+              <p>How do I buy tickets for the Fair Dance?</p>
+            </div>
+            <div class="col-md-8 answer">
+                <p>Please use the form below to drop us an email with the quantity you require and we'll get straight back to you with all the details.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 question">
+              <p>Can I book a stall at this years fair?</p>
+            </div>
+            <div class="col-md-8 answer">
+                <p>Please get in touch with us using the <a href="#contact">form below</a>.</p>
+            </div>
+          </div>
+
+        
     </div>
   </section>
 
