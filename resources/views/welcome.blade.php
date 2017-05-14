@@ -274,7 +274,7 @@
             </div>
             <div class="col-md-8 answer">
                 <p>If you are within Newtonhill and the surrounding area please travel on foot.</p>
-                <p>There is limited parking at the centre which may be used by those less able to travel on food. We advice to leave the car at home, enjoy a glass of fizz in the sunshine and keep a look out for lots of children running about!</p>
+                <p>There is limited parking at the centre which may be used by those less able to travel on foot. We advise to leave the car at home, enjoy a glass of fizz in the sunshine and keep a look out for lots of children running about!</p>
                 <p>If you are travelling to Newtonhill for the day there are <a href="https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/North%20Scotland/Bluebird/TT_Stonehaven_Guide_08May17-web.pdf">frequent bus services</a> from Aberdeen and Stonehaven.</p>
             </div>
         </div>
