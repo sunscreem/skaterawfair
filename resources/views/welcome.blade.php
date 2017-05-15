@@ -90,7 +90,8 @@
                                     <a href="https://www.facebook.com/events/628364674024001/" target="_blank">
                                     <p class="text chat odd margin-top15">The Skateraw Fair</p> 
                                     <img src="/images/events/thefair2.jpg" alt="The Skateraw Fair"></a>
-                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much much more both inside and outside (whatever the weather!)</p>
+                                    <p class="caption">All the fun of the fair whatever the weather.</p>
+                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much more.</p>
                                     <p class="text chat odd margin-top15">Full details very soon!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
@@ -101,8 +102,7 @@
                                     <a href="https://www.facebook.com/events/1679931085634825/" target="_blank">
                                     <p class="text chat odd margin-top15">Over 60's Party</p> 
                                     <img src="/images/events/over60sparty.jpg" alt="The Over 60s Party"></a>
-                                    <p class="caption">Entertainment, bingo, a raffle and stovies!</p>
-                                    <p class="caption">And, of course, free admission.</p>
+                                    <p class="caption">Enjoy a night of entertainment, a game of bingo, a raffle and stovies. And remember it's all free!</p>
                                     
                                      <p class="text chat odd margin-top15">Always a very popular event - book your space today!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Wednesday 21st June<br>
@@ -115,14 +115,13 @@
                                     <img src="/images/events/football.jpg" alt="Football">
                                     <p class="caption"><strong>Challenge Match</strong> - <a href="https://www.facebook.com/events/424178384626077/">Saturday 17th June</a></p>
                                     <p>KO - 2pm</p>
-                                    <p class="caption"><strong>Kids Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
-                                    <p>P1 - P3: (4 aside) Registration 10.30am - KO 11.00am</p>
-                                    <p>P4 - P7 &amp; S1 - S3: (5 aside) Registration 1.30pm - KO - 2.00pm</p>
-                                    <p class="caption"><strong>Over 16s Football</strong> - <a href="https://www.facebook.com/events/238286009984737/">Monday 19th June</a></p>
+                                    <p class="caption"><strong>Kid's Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
+                                    <p>P1 - P3: (4 a-side) Registration 10.30am - KO 11.00am</p>
+                                    <p>P4 - P7 &amp; S1 - S3: (5 a-side) Registration 1.30pm - KO 2.00pm</p>
+                                    <p class="caption"><strong>Over 16's Football</strong> - <a href="https://www.facebook.com/events/238286009984737/">Monday 19th June</a></p>
                                     <p>Registration 6pm - KO 6.30pm</p>
                                     <p class="text chat odd margin-top15">All football is held at Newtonhill Park</p>
                                    
-                                    <time datetime=""><i class="fa fa-calendar"></i> 1st June 2017 - Doors Open 7pm</time>
                                 </li>
 
                               
