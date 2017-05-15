@@ -150,7 +150,7 @@
                 <div class="col-md-4">
                     <img src="/images/bottom.png" class="about-img img-responsive">
                     <h2>Photo Gallery</h2>
-                    <p>Some pictures taken from our <a href="https://www.facebook.com/skaterawfair/">Facebook Page</a> from previous years events.</p>
+                    <p>Some pictures taken from our <a href="https://www.facebook.com/skaterawfair/">Facebook Page</a> from previous years.</p>
                 </div>
                 <!-- break -->
 
@@ -162,21 +162,21 @@
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInLeftBig">    
                                 <a href="/images/gallery/01.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/01.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-01">
+                                        <img src="/images/gallery-thumbs/01.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInDownBig">
                                 <a href="/images/gallery/02.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/02.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-02">
+                                        <img src="/images/gallery-thumbs/02.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInRightBig">
                                 <a href="/images/gallery/03.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/03.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-03">
+                                        <img src="/images/gallery-thumbs/03.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
@@ -187,21 +187,21 @@
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInRightBig">   
                                 <a href="/images/gallery/04.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/04.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-04">
+                                        <img src="/images/gallery-thumbs/04.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInUpBig">
                                 <a href="/images/gallery/05.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/05.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-05">
+                                        <img src="/images/gallery-thumbs/05.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInLeftBig">
                                 <a href="/images/gallery/06.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/06.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-06">
+                                        <img src="/images/gallery-thumbs/06.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
@@ -212,21 +212,21 @@
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInLeftBig">    
                                 <a href="/images/gallery/07.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/07.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-01">
+                                        <img src="/images/gallery-thumbs/07.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInDownBig">
                                 <a href="/images/gallery/08.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/08.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-02">
+                                        <img src="/images/gallery-thumbs/08.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-12 animated fadeInRightBig">
                                 <a href="/images/gallery/09.jpg" class="gallery-images">
                                     <div class="photo-gallery">
-                                        <img src="/images/gallery-thumbs/09.jpg" class="img-responsive" alt="ditinggalrabi-wedding-photo-03">
+                                        <img src="/images/gallery-thumbs/09.jpg" class="img-responsive" alt="">
                                     </div>
                                 </a>
                             </div>
@@ -263,15 +263,15 @@
               <p>Is there an admission price?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>The Fair Day itself is a free event however donations for the lucky programme are encouraged. We have many operating costs for the fair and any support is greatly received. </p>
-                <p>The football sessions are also free events but there will be a BBQ and tuck shop which helps support the fair.</p>
+                <p>The Fair Day itself is a free event, however donations for the lucky programme are encouraged. The Skateraw Fair has many operating costs and any support through volunteering or donations is gratefully received.</p>
+                <p>The football sessions are also free events. There will be a BBQ and/or tuck shop which helps support the running costs.</p>
                 <p>The Fair Dance is a paid event and tickets are available now.</p>
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 question">
-              <p>What is the best way to get to the Fair Day? </p>
+              <p>What is the best way to get to the Fair Day?</p>
             </div>
             <div class="col-md-8 answer">
                 <p>If you are within Newtonhill and the surrounding area please travel on foot.</p>
@@ -285,17 +285,18 @@
                 <p>Can I bring my dog?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>Of course. There are plenty of them in Newtonhill! Please keep your pooch on a lead at all times and unfortunately it will not be allowed into the Bettridge Centre.</p>
+                <p>Of course. There are plenty of them in Newtonhill! Please keep your pooch on a lead at all times. Unfortunately dogs are not allowed into the Bettridge Centre except for guide dogs.</p>
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4 question">
-                <p>Can I bring my own alcohol? </p>
+                <p>Can I bring my own alcohol?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>With the exception of the Skateraw Fair Dance (which is a BYOB event) you are not permitted to bring Alcohol to any event. </p>
-                <p>However, the good news is there will be a beer tent this year on Fair Day! (strictly over 18's only)</p>
+                <p>Please feel free to BYOB to The Skateraw Fair Dance. </p>
+                <p>For all other events, due to licensing restrictions, you are not permitted to bring you own alcohol</p>
+                <p>The good news is there will be a beer tent provided this year on the Fair Day! (strictly over 18's only)</p>
              </div>
         </div>
 
