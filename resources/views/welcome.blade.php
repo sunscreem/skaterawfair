@@ -77,8 +77,8 @@
                                 <li class="content-item content-photo">
                                     <a href="https://www.facebook.com/events/222477248156634/" target="_blank"><img src="/images/events/takethis.jpg" alt="Take This"></a>
                                     <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
-                                    <p class="caption">A Night of Take That performed by the cream of the West End. Exceptional vocals, energetic routines, tight harmonies!</p>
-                                    <p class="caption">Tickets are £15. Over 18's Only. For ticket sales please <a href="#contact">contact us</a>.</p>
+                                    <p class="caption">A night of the music of Take That by one of the best tribute bands currently touring. Exceptional vocals, energetic routines, tight harmonies!</p>
+                                    <p class="caption">Tickets are £15. Over 18's only. For ticket sales please <a href="#contact">contact us</a>.</p>
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> -
