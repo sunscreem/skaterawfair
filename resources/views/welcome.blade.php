@@ -27,10 +27,9 @@
                 <div class="row">
                     <div class="col-md-4">
                         <h2>Then...</h2>
-                        <p>The Skateraw Fair started off as a 'wee' gala before the war and came back as "its a knock-out" competition in 1977.</p>
-                        <p>In 1980, an official committee was set up, the name was changed to Skateraw Fair and was decided to have said fair every year. By this point, the fair was held in a marquee. Initially just for the fair and a dance in the evening. This spread to having discos for the kids in the days leading up to the fair and 
-                        then the addition of events to include activities for all ages.</p>
-                   
+                        <p>The Skateraw Fair started off as a 'wee' gala before the war and came back an "it's a knock-out" competition in 1977.</p>
+                        <p>In 1980 an official committee was set up and the name was changed to Skateraw Fair. At the first meeting it was decided to make this an annual event. Initially it was held over a single day with a dance in the evening. This expanded to having discos for the kids in the days leading up to the fair and 
+                        then the addition of activities for all ages.</p>
                     </div>
                     <!-- break -->
 
@@ -44,8 +43,8 @@
 
                     <div class="col-md-4">
                         <h2>Now...</h2>
-                        <p>The fair takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> as is the centrepiece event, <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
-                        <p>There is now a family fun day, football tournaments, a charity match and much more. </p>
+                        <p>The fair takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> culminating with the centrepiece <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
+                        <p>The events now take place over seven day and include a family fun day, football tournaments, a charity match and much more. </p>
                         <blockquote>
                            "We are always looking for volunteers so feel free to come along to our committee meetings!"
 
@@ -77,7 +76,7 @@
                                 
                                 <li class="content-item content-photo">
                                     <a href="https://www.facebook.com/events/222477248156634/" target="_blank"><img src="/images/events/takethis.jpg" alt="Take This"></a>
-                                    <p class="text chat odd margin-top15">That This : Take That Tribute</p>  
+                                    <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
                                     <p class="caption">A Night of Take That performed by the cream of the West End. Exceptional vocals, energetic routines, tight harmonies!</p>
                                     <p class="caption">Tickets are £15. Over 18's Only. For ticket sales please <a href="#contact">contact us</a>.</p>
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
