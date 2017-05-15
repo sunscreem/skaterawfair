@@ -77,11 +77,11 @@
                                 <li class="content-item content-photo">
                                     <a href="https://www.facebook.com/events/222477248156634/" target="_blank"><img src="/images/events/takethis.jpg" alt="Take This"></a>
                                     <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
-                                    <p class="caption">A night of the music of Take That by one of the best tribute bands currently touring. Exceptional vocals, energetic routines, tight harmonies!</p>
+                                    <p class="caption">Enjoy the songs of Take That performed by best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
                                     <p class="caption">Tickets are £15. Over 18's only. For ticket sales please <a href="#contact">contact us</a>.</p>
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
-                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> -
+                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     7pm</time>
                                 </li>
 
@@ -91,7 +91,7 @@
                                     <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much much more both inside and outside at the Bettridge Centre (whatever the weather!)</p>
                                     <p class="text chat odd margin-top15">Full details very soon!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
-                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> -
+                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     1pm - 4pm</time>
                                 </li>
 
@@ -103,7 +103,7 @@
                                     
                                      <p class="text chat odd margin-top15">Always a very popular event - book your space today!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Wednesday 21st June<br>
-                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Center</a> -
+                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     6.45pm</time>
                                 </li>
 
