@@ -86,7 +86,7 @@
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <a href="https://www.facebook.com/events/628364674024001/" target="_blank"><img src="/images/events/thefair.jpg" alt="The Skateraw Fair"></a>
+                                    <a href="https://www.facebook.com/events/628364674024001/" target="_blank"><img src="/images/events/thefair2.jpg" alt="The Skateraw Fair"></a>
                                     <p class="text chat odd margin-top15">The Skateraw Fair</p> 
                                     <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much much more both inside and outside at the Bettridge Centre (whatever the weather!)</p>
                                     <p class="text chat odd margin-top15">Full details very soon!</p>
