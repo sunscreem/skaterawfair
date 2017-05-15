@@ -75,9 +75,10 @@
                             <ul>
                                 
                                 <li class="content-item content-photo">
-                                    <a href="https://www.facebook.com/events/222477248156634/" target="_blank"><img src="/images/events/takethis.jpg" alt="Take This"></a>
+                                    <a href="https://www.facebook.com/events/222477248156634/" target="_blank">
                                     <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
-                                    <p class="caption">Enjoy the songs of Take That performed by best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
+                                    <img src="/images/events/takethis.jpg" alt="Take This"></a>
+                                    <p class="caption">Enjoy the songs of Take That performed by one of the best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
                                     <p class="caption">Tickets are £15. Over 18's only. For ticket sales please <a href="#contact">contact us</a>.</p>
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
@@ -86,9 +87,10 @@
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <a href="https://www.facebook.com/events/628364674024001/" target="_blank"><img src="/images/events/thefair2.jpg" alt="The Skateraw Fair"></a>
+                                    <a href="https://www.facebook.com/events/628364674024001/" target="_blank">
                                     <p class="text chat odd margin-top15">The Skateraw Fair</p> 
-                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much much more both inside and outside at the Bettridge Centre (whatever the weather!)</p>
+                                    <img src="/images/events/thefair2.jpg" alt="The Skateraw Fair"></a>
+                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much much more both inside and outside (whatever the weather!)</p>
                                     <p class="text chat odd margin-top15">Full details very soon!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
@@ -96,8 +98,9 @@
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <a href="https://www.facebook.com/events/1679931085634825/" target="_blank"><img src="/images/events/over60sparty.jpg" alt="The Over 60s Party"></a>
+                                    <a href="https://www.facebook.com/events/1679931085634825/" target="_blank">
                                     <p class="text chat odd margin-top15">Over 60's Party</p> 
+                                    <img src="/images/events/over60sparty.jpg" alt="The Over 60s Party"></a>
                                     <p class="caption">Entertainment, bingo, a raffle and stovies!</p>
                                     <p class="caption">And, of course, free admission.</p>
                                     
@@ -108,8 +111,8 @@
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <img src="/images/events/football.jpg" alt="Football">
                                     <p class="text chat odd margin-top15">Football -The footie is back!</p>
+                                    <img src="/images/events/football.jpg" alt="Football">
                                     <p class="caption"><strong>Challenge Match</strong> - <a href="https://www.facebook.com/events/424178384626077/">Saturday 17th June</a></p>
                                     <p>KO - 2pm</p>
                                     <p class="caption"><strong>Kids Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
