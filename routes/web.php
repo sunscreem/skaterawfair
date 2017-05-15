@@ -11,12 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('holding');
-});
 
-Route::get('/new', function () {
-    return view('welcome');
-});
+Route::get('/', function () { return view('welcome'); });
 
 Route::POST('/contact',['as'=>'contact','uses'=>'ContactController@store']);

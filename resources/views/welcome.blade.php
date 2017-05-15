@@ -44,7 +44,7 @@
                     <div class="col-md-4">
                         <h2>Now...</h2>
                         <p>The fair takes place in June and is now held in and around <a href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0529774,-2.1914299,11.71z/data=!4m5!3m4!1s0x0:0xd3b533a90cc025f6!8m2!3d57.0301229!4d-2.148485">Newtonhill's Bettridge Centre</a> culminating with the centrepiece <a href="https://www.facebook.com/events/222477248156634/">The Skateraw Fair Dance</a>.</p>
-                        <p>The events now take place over seven day and include a family fun day, football tournaments, a charity match and much more. </p>
+                        <p>The events now take place over seven days and include a family fun day, football tournaments, a charity match and much more.</p>
                         <blockquote>
                            "We are always looking for volunteers so feel free to come along to our committee meetings!"
 
@@ -79,7 +79,7 @@
                                     <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
                                     <img src="/images/events/takethis.jpg" alt="Take This"></a>
                                     <p class="caption">Enjoy the songs of Take That performed by one of the best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
-                                    <p class="caption">Tickets are £15. Over 18's only. For ticket sales please <a href="#contact">contact us</a>.</p>
+                                    <p class="caption">Tickets are £15. Over 18s only. For ticket sales please <a href="#contact">contact us</a>.</p>
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
@@ -100,7 +100,7 @@
 
                                 <li class="content-item content-photo">
                                     <a href="https://www.facebook.com/events/1679931085634825/" target="_blank">
-                                    <p class="text chat odd margin-top15">Over 60's Party</p> 
+                                    <p class="text chat odd margin-top15">Over 60s Party</p> 
                                     <img src="/images/events/over60sparty.jpg" alt="The Over 60s Party"></a>
                                     <p class="caption">Enjoy a night of entertainment, a game of bingo, a raffle and stovies. And remember it's all free!</p>
                                     
@@ -296,7 +296,7 @@
             <div class="col-md-8 answer">
                 <p>Please feel free to BYOB to The Skateraw Fair Dance. </p>
                 <p>For all other events, due to licensing restrictions, you are not permitted to bring you own alcohol</p>
-                <p>The good news is there will be a beer tent provided this year on the Fair Day! (strictly over 18's only)</p>
+                <p>The good news is there will be a beer tent provided this year on the Fair Day! (strictly over 18s only)</p>
              </div>
         </div>
 
