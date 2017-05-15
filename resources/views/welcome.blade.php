@@ -120,7 +120,7 @@
                                     <p>P4 - P7 &amp; S1 - S3: (5 a-side) Registration 1.30pm - KO 2.00pm</p>
                                     <p class="caption"><strong>Over 16's Football</strong> - <a href="https://www.facebook.com/events/238286009984737/">Monday 19th June</a></p>
                                     <p>Registration 6pm - KO 6.30pm</p>
-                                    <p class="text chat odd margin-top15">All football is held at Newtonhill Park</p>
+                                    <p class="text chat odd margin-top15">All football events are held at Newtonhill Park</p>
                                    
                                 </li>
 
@@ -274,7 +274,7 @@
               <p>What is the best way to get to the Fair Day?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>If you are within walking distance please leave the car at home, the limited parking at the Bettridge centre is reserved for disabled badge holders.</p>
+                <p>If you are within walking distance please leave the car at home, the limited parking at the Bettridge Centre is reserved for disabled badge holders.</p>
                 <p>We always welcome new faces at the Fair and if you are travelling from outside Newtonhill  there are <a href="https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/North%20Scotland/Bluebird/TT_Stonehaven_Guide_08May17-web.pdf">frequent bus services</a> from Aberdeen and Stonehaven.</p>
             </div>
         </div>
