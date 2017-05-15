@@ -20,5 +20,3 @@ Route::get('/new', function () {
 });
 
 Route::POST('/contact',['as'=>'contact','uses'=>'ContactController@store']);
-
-Bugsnag::notifyError('ErrorType', 'Test Error');
