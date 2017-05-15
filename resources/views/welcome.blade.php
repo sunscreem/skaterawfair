@@ -274,8 +274,8 @@
               <p>What is the best way to get to the Fair Day?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>If you are within Newtonhill and the surrounding area please travel on foot.</p>
-                <p>There is limited parking at the centre which may be used by those less able to travel on foot. We advise to leave the car at home, enjoy a glass of fizz in the sunshine and keep a look out for lots of children running about!</p>
+                <p>If you are within walking distance please leave the car at home.</p>
+                <p>The limited parking at the Bettridge centre is reserved for the less able bodied.</p>
                 <p>If you are travelling to Newtonhill for the day there are <a href="https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/North%20Scotland/Bluebird/TT_Stonehaven_Guide_08May17-web.pdf">frequent bus services</a> from Aberdeen and Stonehaven.</p>
             </div>
         </div>
@@ -285,7 +285,8 @@
                 <p>Can I bring my dog?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>Of course. There are plenty of them in Newtonhill! Please keep your pooch on a lead at all times. Unfortunately dogs are not allowed into the Bettridge Centre except for guide dogs.</p>
+                <p>Of course, there are plenty of them in Newtonhill! Please keep your pooch on a lead at all times.</p>
+                <p>Unfortunately, with the exception of guide dogs, pets are not allowed into the Bettridge Centre.</p>
             </div>
         </div>
 
