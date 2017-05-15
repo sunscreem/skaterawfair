@@ -274,9 +274,8 @@
               <p>What is the best way to get to the Fair Day?</p>
             </div>
             <div class="col-md-8 answer">
-                <p>If you are within walking distance please leave the car at home.</p>
-                <p>The limited parking at the Bettridge centre is reserved for the less able bodied.</p>
-                <p>If you are travelling to Newtonhill for the day there are <a href="https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/North%20Scotland/Bluebird/TT_Stonehaven_Guide_08May17-web.pdf">frequent bus services</a> from Aberdeen and Stonehaven.</p>
+                <p>If you are within walking distance please leave the car at home, the limited parking at the Bettridge centre is reserved for disabled badge holders.</p>
+                <p>We always welcome new faces at the Fair and if you are travelling from outside Newtonhill  there are <a href="https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/North%20Scotland/Bluebird/TT_Stonehaven_Guide_08May17-web.pdf">frequent bus services</a> from Aberdeen and Stonehaven.</p>
             </div>
         </div>
 
