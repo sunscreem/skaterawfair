@@ -295,7 +295,7 @@
             </div>
             <div class="col-md-8 answer">
                 <p>Please feel free to BYOB to The Skateraw Fair Dance. </p>
-                <p>For all other events, due to licensing restrictions, you are not permitted to bring you own alcohol.</p>
+                <p>For all other events, due to licensing restrictions, you are not permitted to bring your own alcohol.</p>
                 <p>The good news is there will be a beer tent provided this year on the Fair Day! (strictly over 18s only)</p>
              </div>
         </div>
