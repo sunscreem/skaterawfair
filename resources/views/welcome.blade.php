@@ -73,7 +73,19 @@
                                 <div class="img-avatar" style="background-image: url('/images/betteridge.jpg');"></div>
                             </h3>
                             <ul>
-                                
+                                <li class="content-item content-photo">
+                                    <a href="https://www.facebook.com/events/628364674024001/" target="_blank">
+                                    <p class="text chat odd margin-top15">The NEAT Duck Race</p> 
+                                    <img src="/images/events/ducks.jpg" alt="The NEAT Duck Race"></a>
+                                    <p class="caption">The ever popular ducks are back for 2017!</p>
+                                    <p class="caption">Ducks are just £1 and can be purchased at the Skateraw Fair.</p>
+                                    <p class="caption">There is a £50 cash prize for the winning duck!</p>
+                                    <p class="text chat odd margin-top15">Great fun for all the family</p>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Sunday 25th June<br>
+                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/Burn+of+Elsick/@57.0371609,-2.148734,17z/data=!4m5!3m4!1s0x48841b1dd16b68c3:0xb22e76963c48d90a!8m2!3d57.038789!4d-2.1693032">Elsick Burn</a> -
+                                    11am</time>
+                                </li>
+
                                 <li class="content-item content-photo">
                                     <a href="https://www.facebook.com/events/222477248156634/" target="_blank">
                                     <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
@@ -88,11 +100,11 @@
 
                                 <li class="content-item content-photo">
                                     <a href="https://www.facebook.com/events/628364674024001/" target="_blank">
-                                    <p class="text chat odd margin-top15">The Skateraw Fair</p> 
+                                    <p class="text chat odd margin-top15">The Skateraw Fair Day</p> 
                                     <img src="/images/events/thefair2.jpg" alt="The Skateraw Fair"></a>
                                     <p class="caption">All the fun of the fair whatever the weather.</p>
                                     <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much more.</p>
-                                    <p class="text chat odd margin-top15">Full details very soon!</p>
+                                    <p class="text chat odd margin-top15">Full details on our <a href="https://www.facebook.com/events/628364674024001/" target="_blank">facebook page!</a></p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     1pm - 4pm</time>
@@ -113,8 +125,6 @@
                                 <li class="content-item content-photo">
                                     <p class="text chat odd margin-top15">Football -The footie is back!</p>
                                     <img src="/images/events/football.jpg" alt="Football">
-                                    <p class="caption"><strong>Challenge Match</strong> - <a href="https://www.facebook.com/events/424178384626077/">Saturday 17th June</a></p>
-                                    <p>KO - 2pm</p>
                                     <p class="caption"><strong>Kid's Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
                                     <p>P1 - P3: (4 a-side) Registration 10.30am - KO 11.00am</p>
                                     <p>P4 - P7 &amp; S1 - S3: (5 a-side) Registration 1.30pm - KO 2.00pm</p>
