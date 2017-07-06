@@ -160,7 +160,7 @@
                 <div class="col-md-4">
                     <img src="/images/bottom.png" class="about-img img-responsive">
                     <h2>Photo Gallery</h2>
-                    <p>Some pictures taken from our <a href="https://www.facebook.com/skaterawfair/">Facebook Page</a> from previous years.</p>
+                    <p>A selection of pictures taken from our from the 2017 fair<br><a href="https://goo.gl/photos/1QX6CEPr8nKcUxYq9" target="_blank">view more / add your own</a></p>
                 </div>
                 <!-- break -->
 
