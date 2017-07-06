@@ -81,7 +81,7 @@
                                     <p class="caption">Ducks are just £1 and can be purchased at the Skateraw Fair.</p>
                                     <p class="caption">There is a £50 cash prize for the winning duck!</p> --}}
                                     <p class="text chat odd margin-top15">Great fun for all the family</p>
-                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Sunday 25th June<br>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Held On: Sunday 25th June 2017<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/Burn+of+Elsick/@57.0371609,-2.148734,17z/data=!4m5!3m4!1s0x48841b1dd16b68c3:0xb22e76963c48d90a!8m2!3d57.038789!4d-2.1693032">Elsick Burn</a> -
                                     11am</time>
                                 </li>
@@ -93,7 +93,7 @@
                    {{--                  <p class="caption">Enjoy the songs of Take That performed by one of the best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
                                     <p class="caption">Tickets are £15. Over 18s only. For ticket sales please <a href="#contact">contact us</a>.</p> --}}
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
-                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Held On: Saturday 24th June 2017<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     7pm</time>
                                 </li>
@@ -105,7 +105,7 @@
 {{--                                     <p class="caption">All the fun of the fair whatever the weather.</p>
                                     <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much more.</p> --}}
                                     <p class="text chat odd margin-top15">Full details on our <a style="color: white !important;" href="https://www.facebook.com/events/628364674024001/" target="_blank">facebook page!</a></p>
-                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Held On: Saturday 24th June 2017<br>
                                     <a  target="_blank"  href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     1pm - 4pm</time>
                                 </li>
@@ -117,20 +117,20 @@
                                     {{-- <p class="caption">Enjoy a night of entertainment, a game of bingo, a raffle and stovies. And remember it's all free!</p>
                                      --}}
                                      <p class="text chat odd margin-top15">Always a very popular event</p>
-                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Wednesday 21st June<br>
+                                    <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Held On: Wednesday 21st June 2017<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     6.45pm</time>
                                 </li>
 
                                 <li class="content-item content-photo">
-                                    <p class="text chat odd margin-top15">Football -The footie is back!</p>
+                                    <p class="text chat odd margin-top15">Football!</p>
                                     <img src="/images/events/football.jpg" alt="Football">
                                   {{--   <p class="caption"><strong>Kid's Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
                                     <p>P1 - P3: (4 a-side) Registration 10.30am - KO 11.00am</p>
                                     <p>P4 - P7 &amp; S1 - S3: (5 a-side) Registration 1.30pm - KO 2.00pm</p>
                                     <p class="caption"><strong>Over 16's Football</strong> - <a href="https://www.facebook.com/events/238286009984737/">Monday 19th June</a></p>
                                     <p>Registration 6pm - KO 6.30pm</p> --}}
-                                    <p class="text chat odd margin-top15">All football events are held at Newtonhill Park</p>
+                                    <p class="text chat odd margin-top15">All football events are were held at Newtonhill Park</p>
                                    
                                 </li>
 
