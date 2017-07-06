@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
    
-    <meta property="og:url" content="https://skaterawfair.co.uk/new">
+    <meta property="og:url" content="https://skaterawfair.co.uk">
     <meta property="og:type" content="website">
     
-    <title>The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire</title>
-    <meta property="og:title" content="The Skateraw Fair :: 17th - 24th June 2017 :: Newtonhill, Aberdeenshire">
+    <title>The Skateraw Fair :: June 2018 :: Newtonhill, Aberdeenshire</title>
+    <meta property="og:title" content="The Skateraw Fair :: June 2018 :: Newtonhill, Aberdeenshire">
 
     <meta property="og:image" content="https://skaterawfair.co.uk/images/montage.jpg">
     
@@ -61,11 +61,11 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#home">Home</a></li>
-            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#about">About</a></li>
-            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#events">Events</a></li>
-            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#photos">Gallery</a></li>
-            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#qanda">Q &amp; A</a></li>
-            <li><a href="@if(Request::getPathInfo() != '/new')/@endif#contact">Contact</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#photos">Gallery</a></li>
+            <li><a href="#qanda">Q &amp; A</a></li>
+            <li><a href="#contact">Contact</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div>

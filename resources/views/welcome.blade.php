@@ -11,7 +11,7 @@
                     <h3><span>Proudly Presents</span></h3>
                     <h2> THE SKATERAW FAIR! </h2>
                     <h4>A Week Of Events For All The Family</h4>
-                    <h5><span>17th - 24th June 2017</span></h5>
+                    <h5><span>Was Held On: 17th - 24th June 2017</span></h5>
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>This Years Events</h2>
+                    <h2>2017 Events</h2>
                     <ul class="content">
                         <li>
                             <h3 class="content-avatar avatar-top">
@@ -77,9 +77,9 @@
                                     <a href="https://www.facebook.com/events/628364674024001/" target="_blank">
                                     <p class="text chat odd margin-top15">The NEAT Duck Race</p> 
                                     <img src="/images/events/ducks.jpg" alt="The NEAT Duck Race"></a>
-                                    <p class="caption">The ever popular ducks are back for 2017!</p>
+                                {{--     <p class="caption">The ever popular ducks are back for 2017!</p>
                                     <p class="caption">Ducks are just £1 and can be purchased at the Skateraw Fair.</p>
-                                    <p class="caption">There is a £50 cash prize for the winning duck!</p>
+                                    <p class="caption">There is a £50 cash prize for the winning duck!</p> --}}
                                     <p class="text chat odd margin-top15">Great fun for all the family</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Sunday 25th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/Burn+of+Elsick/@57.0371609,-2.148734,17z/data=!4m5!3m4!1s0x48841b1dd16b68c3:0xb22e76963c48d90a!8m2!3d57.038789!4d-2.1693032">Elsick Burn</a> -
@@ -90,8 +90,8 @@
                                     <a href="https://www.facebook.com/events/222477248156634/" target="_blank">
                                     <p class="text chat odd margin-top15">Take This : Take That Tribute</p>  
                                     <img src="/images/events/takethis.jpg" alt="Take This"></a>
-                                    <p class="caption">Enjoy the songs of Take That performed by one of the best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
-                                    <p class="caption">Tickets are £15. Over 18s only. For ticket sales please <a href="#contact">contact us</a>.</p>
+                   {{--                  <p class="caption">Enjoy the songs of Take That performed by one of the best tribute bands currently touring, with exceptional vocals, energetic dance routines and tight harmonies!</p>
+                                    <p class="caption">Tickets are £15. Over 18s only. For ticket sales please <a href="#contact">contact us</a>.</p> --}}
                                     <p class="text chat odd margin-top15">Music, Dancing, Raffle, BYOB - A night to remember!</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
@@ -102,11 +102,11 @@
                                     <a href="https://www.facebook.com/events/628364674024001/" target="_blank">
                                     <p class="text chat odd margin-top15">The Skateraw Fair Day</p> 
                                     <img src="/images/events/thefair2.jpg" alt="The Skateraw Fair"></a>
-                                    <p class="caption">All the fun of the fair whatever the weather.</p>
-                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much more.</p>
-                                    <p class="text chat odd margin-top15">Full details on our <a href="https://www.facebook.com/events/628364674024001/" target="_blank">facebook page!</a></p>
+{{--                                     <p class="caption">All the fun of the fair whatever the weather.</p>
+                                    <p class="caption">Music, entertainment, stalls, games, BBQ, beer tent, bouncy castles and much more.</p> --}}
+                                    <p class="text chat odd margin-top15">Full details on our <a style="color: white !important;" href="https://www.facebook.com/events/628364674024001/" target="_blank">facebook page!</a></p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Saturday 24th June<br>
-                                    <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
+                                    <a  target="_blank"  href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     1pm - 4pm</time>
                                 </li>
 
@@ -114,9 +114,9 @@
                                     <a href="https://www.facebook.com/events/1679931085634825/" target="_blank">
                                     <p class="text chat odd margin-top15">Over 60s Party</p> 
                                     <img src="/images/events/over60sparty.jpg" alt="The Over 60s Party"></a>
-                                    <p class="caption">Enjoy a night of entertainment, a game of bingo, a raffle and stovies. And remember it's all free!</p>
-                                    
-                                     <p class="text chat odd margin-top15">Always a very popular event - book your space today!</p>
+                                    {{-- <p class="caption">Enjoy a night of entertainment, a game of bingo, a raffle and stovies. And remember it's all free!</p>
+                                     --}}
+                                     <p class="text chat odd margin-top15">Always a very popular event</p>
                                     <time datetime="" class="margin-top15"><i class="fa fa-calendar"></i> Wednesday 21st June<br>
                                     <a  target="_blank" href="https://www.google.co.uk/maps/place/The+Bettridge+Centre/@57.0301229,-2.148485,15z/data=!4m2!3m1!1s0x0:0xd3b533a90cc025f6?sa=X&ved=0ahUKEwjutbadlNHTAhUGM8AKHWr2DWoQ_BIIdzAK">Bettridge Centre</a> -
                                     6.45pm</time>
@@ -125,11 +125,11 @@
                                 <li class="content-item content-photo">
                                     <p class="text chat odd margin-top15">Football -The footie is back!</p>
                                     <img src="/images/events/football.jpg" alt="Football">
-                                    <p class="caption"><strong>Kid's Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
+                                  {{--   <p class="caption"><strong>Kid's Tournament</strong> - <a href="https://www.facebook.com/pg/skaterawfair/events/">Sunday 18th June</a></p>
                                     <p>P1 - P3: (4 a-side) Registration 10.30am - KO 11.00am</p>
                                     <p>P4 - P7 &amp; S1 - S3: (5 a-side) Registration 1.30pm - KO 2.00pm</p>
                                     <p class="caption"><strong>Over 16's Football</strong> - <a href="https://www.facebook.com/events/238286009984737/">Monday 19th June</a></p>
-                                    <p>Registration 6pm - KO 6.30pm</p>
+                                    <p>Registration 6pm - KO 6.30pm</p> --}}
                                     <p class="text chat odd margin-top15">All football events are held at Newtonhill Park</p>
                                    
                                 </li>
@@ -270,6 +270,16 @@
 
         <div class="row">
             <div class="col-md-4 question">
+              <p>When is the Skateraw Fair In 2018?</p>
+            </div>
+            <div class="col-md-8 answer">
+                <p>The fair is held in the last week in June.</p>
+                <p>We will update our facebook page as soon as the 2018 is confirmed.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 question">
               <p>Is there an admission price?</p>
             </div>
             <div class="col-md-8 answer">
@@ -321,7 +331,7 @@
 
         <div class="row">
             <div class="col-md-4 question">
-              <p>Can I book a stall at this years fair?</p>
+              <p>Can I book a stall at the 2018 fair?</p>
             </div>
             <div class="col-md-8 answer">
                 <p>Please get in touch with us using the <a href="#contact">form below</a>.</p>
